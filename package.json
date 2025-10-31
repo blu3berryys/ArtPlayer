@@ -46,7 +46,7 @@
         "@parcel/transformer-less": "^2.12.0",
         "axios": "^1.7.2",
         "cpy": "^11.0.1",
-        "cross-env": "^7.0.3",
+        "cross-env": "^10.1.0",
         "cross-spawn": "^7.0.3",
         "dotenv": "^16.4.5",
         "eslint": "^9.6.0",
